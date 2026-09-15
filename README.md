@@ -99,14 +99,14 @@ Because the filtered group contains only 9 employees, this result should be inte
 
 Through this project, I strengthened my skills in:
 
-Data cleaning and preparation
-Data modeling
-DAX measures
-Interactive dashboard development
-Data visualization
-KPI development
-Slicer and filter interactions
-Analytical storytelling
+Data cleaning and preparation ,
+Data modeling ,
+DAX measures ,
+Interactive dashboard development ,
+Data visualization ,
+KPI development ,
+Slicer and filter interactions ,
+Analytical storytelling ,
 Translating business questions into data insights
 
 👩‍💻 Author
