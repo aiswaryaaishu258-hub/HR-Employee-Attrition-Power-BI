@@ -95,28 +95,22 @@ This filtered segment showed an **88.89% attrition rate**, with **8 out of 9 emp
 
 Because the filtered group contains only 9 employees, this result should be interpreted as a **small-segment pattern requiring further investigation**, rather than a general conclusion.
 
----
+🎓 Learning Outcomes
 
-## 📷 Dashboard Preview
+Through this project, I strengthened my skills in:
 
-![HR Employee Attrition Dashboard](HR Attrition Dashboard.png)
+Data cleaning and preparation
+Data modeling
+DAX measures
+Interactive dashboard development
+Data visualization
+KPI development
+Slicer and filter interactions
+Analytical storytelling
+Translating business questions into data insights
 
----
+👩‍💻 Author
 
-## 📂 Project Structure
+Aiswarya K M 
 
-```text
-HR-Employee-Attrition-PowerBI/
-│
-├── README.md
-│
-├── HR_Employee_Attrition_Dashboard.pbix
-│
-├── Dataset/
-│   └── WA_Fn-UseC_-HR-Employee-Attrition.csv
-│
-├── Dashboard/
-│   └── HR_Employee_Attrition_Dashboard.png
-│
-└── Documentation/
-    └── Key_Insights.md
+
